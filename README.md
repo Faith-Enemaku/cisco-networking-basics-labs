@@ -1,7 +1,6 @@
 # Networking Basics – Cisco Networking Academy
 
-This repository documents my hands-on labs from the **Networking Basics** course in the  
-**Junior Cybersecurity Analyst** career path on Cisco Networking Academy.
+This repository documents my hands-on labs from the Networking Basics course in the Junior Cybersecurity Analyst career path on Cisco Networking Academy.
 
 ## Overview
 - 13 Packet Tracer labs
