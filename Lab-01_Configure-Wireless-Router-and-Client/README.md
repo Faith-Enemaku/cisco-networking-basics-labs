@@ -21,10 +21,10 @@ Configure a small home network by connecting wired and wireless devices, configu
    - Confirm that Office PC and Bedroom PC have proper IP addresses and internet access.
 
 ## Screenshots
-- Screenshot 1 – Device connections in Packet Tracer  
-- Screenshot 2 – Router GUI setup  
-- Screenshot 3 – Wireless network configuration  
-- Screenshot 4 – Laptop successfully connected to Wi-Fi and web server   
+- ![Device connections](screenshots/1.png)
+- ![Router GUI setup](screenshots/2.png)
+- ![Wireless network configuration](screenshots/3.png)
+- ![Laptop connected](screenshots/4.png)   
 
 ## Key Takeaways
 - Learned to connect wired and wireless devices in a home network.  
