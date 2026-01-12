@@ -29,7 +29,6 @@ This repository documents my hands-on labs from the Networking Basics course in 
 Each lab folder contains:
 - A README with objectives and configuration summary
 - Screenshots for verification
-- Packet Tracer (.pkt) files
 
 ## Goal
 To build a solid foundation in networking concepts and hands-on skills that are essential for cybersecurity analysis, traffic monitoring, and incident response.
