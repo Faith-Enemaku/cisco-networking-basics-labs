@@ -21,9 +21,9 @@ After confirming connectivity, I opened the web browser on PC0 and typed the ser
 - Screenshot 2 – PC0 Web Browser showing the web page  
 
 ## Key Takeaways
-- Learned how to verify network connectivity using ping
-- Observed how IP addresses allow PCs to reach servers 
-- Practiced connecting a PC to a web server using a web client  
-- Gained a better understanding of how the Internet delivers packets 
+- Learned how to verify network connectivity using ping.
+- Observed how IP addresses allow PCs to reach servers. 
+- Practiced connecting a PC to a web server using a web client.  
+- Gained a better understanding of how the Internet delivers packets.
 
 
