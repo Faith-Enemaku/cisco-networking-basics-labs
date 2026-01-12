@@ -17,8 +17,9 @@ After confirming connectivity, I opened the web browser on PC0 and typed the ser
 - This demonstrated how a web client uses an IP address to reach a server and retrieve a web page.
 
 ## Screenshots
-- Screenshot 1 – PC0 Command Prompt ping results  
-- Screenshot 2 – PC0 Web Browser showing the web page  
+- Network Topology ![Network topology](screenshots/topology.png)
+- Ping Results ![Ping results](screenshots/ping-results.png)
+- Web Page ![Web page](screenshots/web-page.png)
 
 ## Key Takeaways
 - Learned how to verify network connectivity using ping.
