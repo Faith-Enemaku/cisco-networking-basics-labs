@@ -13,11 +13,11 @@ Configure a small home network by connecting wired and wireless devices, configu
    - Access the router GUI via Office PC web browser.
    - Enable DHCP for client IP addressing.
    - Change default admin credentials.
-   - Set up wireless network (SSID: `MyHome`) and security (WPA2, passphrase: `MyPassPhrase1!`).
+   - Set up wireless network (SSID, security and passphrase).
 
 3. **Configure IP Addressing and Test Connectivity**
    - Connect Laptop to the wireless network using the configured SSID and passphrase.
-   - Verify connectivity by accessing `skillsforall.srv`.
+   - Verify connectivity.
    - Confirm that Office PC and Bedroom PC have proper IP addresses and internet access.
 
 ## Screenshots
